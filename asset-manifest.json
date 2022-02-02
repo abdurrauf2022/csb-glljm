@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-glljm/static/css/main.e256145b.chunk.css",
+    "main.js": "https://.github.io/csb-glljm/static/js/main.2f7265e6.chunk.js",
+    "main.js.map": "https://.github.io/csb-glljm/static/js/main.2f7265e6.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-glljm/static/js/runtime-main.b32c09f2.js",
+    "runtime-main.js.map": "https://.github.io/csb-glljm/static/js/runtime-main.b32c09f2.js.map",
+    "static/css/2.0f52559e.chunk.css": "https://.github.io/csb-glljm/static/css/2.0f52559e.chunk.css",
+    "static/js/2.79cedc56.chunk.js": "https://.github.io/csb-glljm/static/js/2.79cedc56.chunk.js",
+    "static/js/2.79cedc56.chunk.js.map": "https://.github.io/csb-glljm/static/js/2.79cedc56.chunk.js.map",
+    "static/js/3.f26aa858.chunk.js": "https://.github.io/csb-glljm/static/js/3.f26aa858.chunk.js",
+    "static/js/3.f26aa858.chunk.js.map": "https://.github.io/csb-glljm/static/js/3.f26aa858.chunk.js.map",
+    "index.html": "https://.github.io/csb-glljm/index.html",
+    "static/css/2.0f52559e.chunk.css.map": "https://.github.io/csb-glljm/static/css/2.0f52559e.chunk.css.map",
+    "static/css/main.e256145b.chunk.css.map": "https://.github.io/csb-glljm/static/css/main.e256145b.chunk.css.map",
+    "static/js/2.79cedc56.chunk.js.LICENSE.txt": "https://.github.io/csb-glljm/static/js/2.79cedc56.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "https://.github.io/csb-glljm/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/pc.48337645.jpg": "https://.github.io/csb-glljm/static/media/pc.48337645.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b32c09f2.js",
+    "static/css/2.0f52559e.chunk.css",
+    "static/js/2.79cedc56.chunk.js",
+    "static/css/main.e256145b.chunk.css",
+    "static/js/main.2f7265e6.chunk.js"
+  ]
+}
